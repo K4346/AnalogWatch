@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AnalogWatch</string>
+    <string name="demo_text">Аналоговые часы</string>
+    <string name="default_screen">Экран с Часами по умолчанию</string>
+    <string name="to_custom_screen">На экран кастомизации</string>
+    <string name="custom_text">Цвета переопределны в артрибутах xml, ниже можно настроить программно</string>
+    <string name="element">Элемент:</string>
+    <string name="color">Цвет:</string>
+    <string name="change">Поменять</string>
+
+    <string-array name="listViewElementsName">
+        <item>Корпус</item>
+        <item>Циферблат</item>
+        <item>Числа</item>
+        <item>Разделители</item>
+        <item>Часовая стрелка</item>
+        <item>Минутная стрелка</item>
+        <item>Секундная стрелка</item>
+    </string-array>
+
+    <string-array name="listOfColors">
+        <item>Черный</item>
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+</resources>
